@@ -29,9 +29,12 @@ Run [NMN_test.m](NMN_test.m).  The program will load the test data from [test_da
 
 
 ## Some additional code repos you might find useful:
-Laguerre-Volterra-Network [https://github.com/gengkunling/Laguerre-Volterra-Network](https://github.com/gengkunling/Laguerre-Volterra-Network)
+
+Laguerre-Volterra-Network (LVN) [https://github.com/gengkunling/Laguerre-Volterra-Network](https://github.com/gengkunling/Laguerre-Volterra-Network)
 
 Autoregressive-LVN to train Hodgkin-Huxley Equations [https://github.com/gengkunling/ASLVN](https://github.com/gengkunling/ASLVN)
+
+Generalized Linear Model (GLM) for Modeling Neural Spike Train Data: [https://github.com/gengkunling/Generalized-Linear-Model-Neural-Spike-Train-Data](https://github.com/gengkunling/Generalized-Linear-Model-Neural-Spike-Train-Data)
 
 ## If you find this code useful, please cite:
 
